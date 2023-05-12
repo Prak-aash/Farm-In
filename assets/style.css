@@ -16,6 +16,7 @@ body {
   align-items: center;
   background: #051320;
   animation: text 1.0s ease-in-out;
+  overflow: hidden;
 }
 
 h1 {
